@@ -1,4 +1,4 @@
- !function run()
+ function run()
             {
                 var htmlObj = document.getElementById('show');
                 htmlObj.innerHTML = htmlObj.innerHTML + `
